@@ -1,4 +1,4 @@
 run the application from the flask_app.py
-'''bash
+```bash
 python flask_app.py
-'''
+```
